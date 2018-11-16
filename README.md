@@ -1,0 +1,2 @@
+# ActivityUtilsDemo
+ActivityUtils工具类 首页退出应用程序的方法切记清单文件必须配置启动模式为SingleTask
